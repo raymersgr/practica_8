@@ -1,0 +1,10 @@
+C:\Users\rayme\source\repos\ui_insert\ui_insert\bin\Debug\ui_insert.exe.config
+C:\Users\rayme\source\repos\ui_insert\ui_insert\bin\Debug\ui_insert.exe
+C:\Users\rayme\source\repos\ui_insert\ui_insert\bin\Debug\ui_insert.pdb
+C:\Users\rayme\source\repos\ui_insert\ui_insert\obj\Debug\ui_insert.csproj.AssemblyReference.cache
+C:\Users\rayme\source\repos\ui_insert\ui_insert\obj\Debug\ui_insert.Form1.resources
+C:\Users\rayme\source\repos\ui_insert\ui_insert\obj\Debug\ui_insert.Properties.Resources.resources
+C:\Users\rayme\source\repos\ui_insert\ui_insert\obj\Debug\ui_insert.csproj.GenerateResource.cache
+C:\Users\rayme\source\repos\ui_insert\ui_insert\obj\Debug\ui_insert.csproj.CoreCompileInputs.cache
+C:\Users\rayme\source\repos\ui_insert\ui_insert\obj\Debug\ui_insert.exe
+C:\Users\rayme\source\repos\ui_insert\ui_insert\obj\Debug\ui_insert.pdb
