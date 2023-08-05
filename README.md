@@ -1,0 +1,4 @@
+# practica_8
+
+APP A .NET (INTERFAZ)
+APP B PYTHON (APP DE CONSOLA)
